@@ -14,4 +14,8 @@ Welcome! This repository contains multiple projects showing my skills in Python.
 ## 3. Material Science Chatbot 
 - Description: Created a simple chatbot that accepts user input and provides specific outputs to the user based on the topics they ask about material science (ex: material properties, metals, etc.)
 - Tools: Python, Jupyter Notebook
-- Project Title: Material Science Chatbot Project 
+- Project Title: Material Science Chatbot Project
+## 4. Disney World Data Analysis
+- Description: Conducted research on flight, rental car, and hotel costs and estimated peak visitation times based on typical Peak Disney visitation times like Christmas, Spring Break, and Summer. Generated new calculated columns, converted data types, and created appropriate visualizations to analyze the data.
+- Tools: Python, Pandas, Jupyter Notebook
+- Project Title: Disney World Data Analysis 
